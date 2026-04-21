@@ -2,9 +2,9 @@
 
 Custom scripts for analyses and visualization used in the manuscript:  
 
-**Michalik A., Castillo Franco D., Deng J., Prus-Frankowska M., Stroiñski A., Łukasik P. (preprint-2025):**  
-*The tiniest genomes shrink much further: extreme reductive evolution in planthopper symbionts*  
-[bioRxiv, 2025.05.16.654412](https://doi.org/10.1101/2025.05.16.654412)  
+**Michalik A., Castillo Franco D., Deng J., Prus-Frankowska M., Stroiñski A., Łukasik P.:**  
+*Convergent extreme reductive evolution in ancient planthopper symbioses. Nature Communications.*  
+[Nature Communications](https://www.nature.com/articles/s41467-026-69238-x)  
 
 ---
 
