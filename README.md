@@ -3,7 +3,7 @@
 Custom scripts for analyses and visualization used in the manuscript:  
 
 **Michalik A., Castillo Franco D., Deng J., Prus-Frankowska M., Stroiñski A., Łukasik P.:**  
-*Michalik, A., Franco, D.C., Deng, J. et al. Convergent extreme reductive evolution in ancient planthopper symbioses. Nat Commun 17, 2473 (2026).*  
+*Convergent extreme reductive evolution in ancient planthopper symbioses. Nat Commun 17, 2473 (2026).*  
 [Nature Communications](https://doi.org/10.1038/s41467-026-69238-x)  
 
 ---
